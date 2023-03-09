@@ -9,7 +9,7 @@
                     <div class="card shadow mb-4">
                         <div class="card-header py-3">
                           <div class="btn-group" role="group" aria-label="Basic example">
-                            <button type="button" class="btn btn-primary">Tambah Produk</button>
+                            <a type="button" class="btn btn-primary" href="input_barang.php">Tambah Produk</a>
                           </div>
                         </div>
                         <div class="card-body">
